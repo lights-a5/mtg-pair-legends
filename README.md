@@ -1,7 +1,7 @@
 # mtg-pair-legends
 
 # Copy/Paste from Reddit Thread
-My playgroup was shootin' the breeze and we were speculating what would happen if we gave 'partner with' to certain legendary creatures. I am studying Software Engineering and this semester I'm not taking any CS courses that require programming. So, to keep myself sharp, I spent about 30-40 minutes creating this little Python program that would partner all the legendary creatures.
+My playgroup was shootin' the breeze and we were speculating what would happen if we gave 'partner with' to every legendary creature. I am studying Software Engineering and this semester I'm not taking any CS courses that require programming. So, to keep myself sharp, I spent about 30-40 minutes creating this little Python program that would assign a partner at random to all the legendary creatures.
 
 There are bugs that I haven't bothered to fix. It thinks that "Brisela" is it's own card and it gets paired. Also, the flip cards that start as non-legendary creatures and flip into legendary creatures are unfortunately included as well.
 
